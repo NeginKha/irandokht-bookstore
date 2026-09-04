@@ -1,0 +1,248 @@
+body{
+    background-color: #190019;
+    color: #fbe4d8;
+}
+.head{
+    margin: 10px 5px 2px;
+    padding: 0%;
+}
+.btn{
+    text-align: right;
+}
+.header{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 10px;
+    border: none;
+}
+.header:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
+@font-face{
+    font-family: "lover";
+    src: url(/fonts/Fleur_De_Leah/FleurDeLeah-Regular.ttf)
+}
+.text-img{
+    font-size: 25PX;
+    font-weight: 100;
+    line-height: 1.8;
+    text-align: center;
+    width: 1330px;
+    height: 150px;
+    background-image: url(/images/cover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+} 
+.n1{
+    font-family: "lover";
+    font-size: 4rem;
+    text-shadow: 2rem #fbe4d8;
+    color:#2b124c;
+    
+}
+.search{
+    text-align: center;
+}
+.collections{
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.collections h3{
+    font-size: 23px;
+    color: #DFB6B2;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.product-grid{
+    text-align: center;
+    margin: 1.5rem;
+    overflow: hidden;
+    background: #2b124c;
+    box-shadow: 0 15px 30px #522858;
+}
+.collection{
+    display: inline-block;
+    padding: 15px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.collection img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.collection:hover{
+    background-color: #522858;
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px #DFB6B2;
+}
+.order{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 2px;
+    border: none;
+}
+.order:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
+.best-sellers{
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.best-sellers h3{
+    font-size: 23px;
+    color: #DFB6B2;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.product-grid2{
+    text-align: center;
+    margin: 1.5rem;
+    overflow: hidden;
+    background: #2b124c;
+    box-shadow: 0 15px 30px #522858;
+}
+.best-seller{
+    display: inline-block;
+    padding: 15px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.best-seller img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.best-seller:hover{
+    background-color: #522858;
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px #DFB6B2;
+}
+.order{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 2px;
+    border: none;
+}
+.order:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
+.classics{
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.classics h3{
+    font-size: 23px;
+    color: #DFB6B2;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.product-grid3{
+    text-align: center;
+    margin: 1.5rem;
+    overflow: hidden;
+    background: #2b124c;
+    box-shadow: 0 15px 30px #522858;
+}
+.classic{
+    display: inline-block;
+    padding: 15px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.classic img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.classic:hover{
+    background-color: #522858;
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px #DFB6B2;
+}
+.order{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 2px;
+    border: none;
+}
+.order:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
+.trends{
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.trends h3{
+    font-size: 23px;
+    color: #DFB6B2;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.product-grid4{
+    text-align: center;
+    margin: 1.5rem;
+    overflow: hidden;
+    background: #2b124c;
+    box-shadow: 0 15px 30px #522858;
+}
+.trend{
+    display: inline-block;
+    padding: 15px;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.trend img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.trend:hover{
+    background-color: #522858;
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px #DFB6B2;
+}
+.order{
+    margin-top: 10px;
+    font-size: 15px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 2px;
+    border: none;
+}
+.order:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
+.up{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 12px 18px;
+    font-size: 15px;
+    color: #522858;
+    background-color: #fbe4d8;
+    border-radius: 50%;
+    border: none;
+}
+.up:hover{
+    color: #fbe4d8;
+    background-color: #522858;
+}
